@@ -8,3 +8,5 @@ Actividad materia Tecnologías web
 
 * Actualizacion: 137Agosto/2025
 
+* Descripción: Proyecto de ejemplo para repasae comandos basicos de UNIX, configurar un repositorio local con GIT y uso basico de comandos de GIT para gestionar versiones de proyectos. 
+
